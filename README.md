@@ -32,7 +32,7 @@ The latest stable code can be found in [the release page](https://github.com/mar
 - util-linux (for libuuid, libmount, libblkid)
 - libbsd (libbsd-dev on Debian)
 
-Then to build Duperemove run `make`.
+Then to build Duperemove run `make`. For Debian based distributions there is a also a build script `duperemove_build.s`)
 
 # FAQ
 
